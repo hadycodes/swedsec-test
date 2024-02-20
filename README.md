@@ -1,6 +1,7 @@
 # Swedsec Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I try to follow React best practices from [Bulletproof React](https://github.com/alan2207/bulletproof-react/tree/master)
 
 ## Motivation
 
