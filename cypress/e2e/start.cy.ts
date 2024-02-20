@@ -36,9 +36,7 @@ describe("auth flow spec", () => {
 
     cy.visit("/oauth?code=__GUEST__");
 
-    cy.intercept("**/search/users**").as(
-      "searchUsers"
-    );
+    cy.intercept("**/search/users**").as("searchUsers");
 
     const serachbar = cy.get(`[cy-test='searchbar']`);
   });

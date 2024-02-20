@@ -15,6 +15,9 @@ I demonstrate `createApi` and `createSlice` implementation, with `transformRespo
 
 I have used `Ant Design`m but for basic usage to demonstrate working with different design library, the grid layout with the infinite functionality is totally by my design, to demonstrate a reusable component.
 
+
+Tests with Cypress E2E
+
 **Note**
 Due to github oauth cannot be done via client, I have used `cors-anywhere`
 
